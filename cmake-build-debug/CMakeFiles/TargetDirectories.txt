@@ -1,0 +1,3 @@
+C:/Users/georg/CLionProjects/a2_v2/cmake-build-debug/CMakeFiles/MTE140-a2.dir
+C:/Users/georg/CLionProjects/a2_v2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/georg/CLionProjects/a2_v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
